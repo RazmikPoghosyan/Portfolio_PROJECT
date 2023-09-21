@@ -334,14 +334,7 @@ footer .column > a:hover{
     color: #1d4ed8;
 }
 
-.copyright{
-    max-width: 1200px;
-    margin: auto;
-    padding: 1rem;
-    color: #fff;
-    font-size: 0.8rem;
-    text-align: center;
-}
+
 
 @media (width < 900px){
     .nav-links{
